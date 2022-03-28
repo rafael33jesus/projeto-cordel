@@ -24,7 +24,7 @@ html, body {
 header {
     background-color: black; /* cor de fundo */
     color: white; /* cor da fonte */
-    text-align: center; /* alinhamento do texto */
+    text-align: center; 
 }
 
 header > h1 {
