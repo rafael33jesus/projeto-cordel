@@ -62,7 +62,7 @@ section > p {
 }
 
 section.normal {
-    background-color: white;
+    background-color: white; /* cor de fundo */
     color: black;
 }
 
